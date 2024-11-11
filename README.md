@@ -22,8 +22,8 @@ DISEASE_PREDICTIO/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/disease-predictor.git
-cd disease-predictor
+git clone https://github.com/Aidwise-Demo/Docker-Disease-Prediction.git
+cd Docker-Disease-Prediction
 ```
 
 2. Start the application using Docker Compose:
