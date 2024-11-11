@@ -14,10 +14,6 @@ DISEASE_PREDICTIO/
 ## Prerequisites
 
 - Docker(https://www.docker.com/products/docker-desktop/)
-- Docker Compose
-- Node.js (for local development)
-- Python 3.9+ (for local development)
-
 ## Getting Started
 
 1. Clone the repository:
